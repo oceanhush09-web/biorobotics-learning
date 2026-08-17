@@ -1,11 +1,14 @@
 # Biorobotics Learning
-My freshman-year journey in robotics learning.
+
+My freshman-year journey toward becoming a strong Biorobotics engineer.
 
 ## About
+
 I am developing skills in programming, electronics, CAD, robotics,
 and engineering through coursework, hands-on projects, and research preparation.
 
 ## Focus Areas
+
 - Programming
 - Electronics
 - CAD
@@ -14,10 +17,13 @@ and engineering through coursework, hands-on projects, and research preparation.
 - Research
 
 ## Projects
-- 
+
+| Project | Skills | Status |
+|---|---|---|
+| Robot Motion Simulator | Python, Physics | 🟢 Completed |
+| Sensor-Controlled Servo | Arduino, Electronics | 🟡 In Progress |
 
 ## Skills
--
 
 ### Programming
 - Python
@@ -33,7 +39,7 @@ and engineering through coursework, hands-on projects, and research preparation.
 - SolidWorks
 
 ### Tools
-- GitHub
+- Git / GitHub
 - MATLAB
 
 ## Research Interests
