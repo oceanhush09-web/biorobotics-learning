@@ -20,8 +20,8 @@ and engineering through coursework, hands-on projects, and research preparation.
 
 | Project | Skills | Status |
 |---|---|---|
-| Robot Motion Simulator | Python, Physics | 🟢 Completed |
-| Sensor-Controlled Servo | Arduino, Electronics | 🟡 In Progress |
+| Robot Motion Simulator | Python, Physics | not completed|
+| Sensor-Controlled Servo | Arduino, Electronics | not completed |
 
 ## Skills
 
